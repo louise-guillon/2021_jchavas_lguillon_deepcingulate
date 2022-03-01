@@ -48,8 +48,8 @@ To train and evaluate each model, we follow the corresponding README:
 Results
 -------
 
-.. image:: images/pipeline.png
-.. image:: images/clustering.png
+.. image:: images/pipeline_v5.png
+.. image:: images/clustering_v5.png
 .. image:: images/ma.png
 
 Dependencies
