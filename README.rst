@@ -27,8 +27,8 @@ We then download and install the present deep learning package:
 
 .. code-block:: shell
 
-    git clone https://github.com/neurospin-projects/2021_jchavas_lguillon_deepcingulate
-    cd 2021_jchavas_lguillon_deepcingulate
+    git clone https://github.com/XXXX_xxxx_xxxx_xxxx
+    cd XXX
     pip3 install -e .
     
 As an alternative to the last step, we can also use the provided requirements file:
