@@ -31,5 +31,5 @@ setup(
                       ],
     url='https://github.com/neurospin-projects/2021_jchavas_lguillon_deepcingulate',
     author='Joël Chavas, Louise Guillon',
-    author_email='joel.chavas@cea.fr, louise.guillon@cea.fr'
+    author_email='joel.chavas@cea.XX, louise.guillon@cea.XX'
 )
